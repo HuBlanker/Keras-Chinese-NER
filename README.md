@@ -1,7 +1,7 @@
 # Keras-Chinese-NER
 chinese text ner demo
 
-关于本项目的详细信息请查看 [2019-11-24-用深度学习解决NLP中的命名实体识别(NER)问题(深度学习入门项目)()
+关于本项目的详细信息请查看 [2019-11-24-用深度学习解决NLP中的命名实体识别(NER)问题(深度学习入门项目)(http://huyan.couplecoders.tech/java/nlp/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/ner/2019/11/24/%E7%94%A8%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E8%A7%A3%E5%86%B3NLP%E4%B8%AD%E7%9A%84%E5%91%BD%E5%90%8D%E5%AE%9E%E4%BD%93%E8%AF%86%E5%88%AB(NER)%E9%97%AE%E9%A2%98(%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E9%A1%B9%E7%9B%AE)/)
 
 ## Use
 
